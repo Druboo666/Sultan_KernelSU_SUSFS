@@ -39,7 +39,7 @@ jobs:
     uses: ./.github/workflows/sultan.yml
     secrets: inherit
     with:
-      codename: "gs101"
+      codename: "gs201"
       repo: "android_kernel_google_gs101"
       android_version: "android14"
       kernel_version: "6.1"
